@@ -3,7 +3,8 @@ An implementation of Neural Network from scratch on mnist dataset
 __________
 The code i've provided is not complete like Pytorch and Tensorflow at all! It's just a simple two layer network. But i made it clear for understanding. 
 
-You have to know only algebra and math and a little bit working with numpy library
+You have to know only algebra and math and a little bit working with numpy library.
+Consider that my code is not complete and efficient and the backpropagation function may not work properly. I only provide it for better learning 😊
 
 how does the network looke like?
 * 1. Forward Function ✅
