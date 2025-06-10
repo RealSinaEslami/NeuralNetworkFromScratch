@@ -1,4 +1,4 @@
-# NeuralNetworkFromScratch
+# Neural Network From Scratch
 An implementation of Neural Network from scratch on mnist dataset
 __________
 The code i've provided is not complete like Pytorch and Tensorflow at all! It's just a simple two layer network. But i made it clear for understanding. 
